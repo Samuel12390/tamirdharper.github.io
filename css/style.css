@@ -100,7 +100,7 @@ ol {
 }
 
 .section-title span {
-	color: #ff006c;
+	color: #0268d1;
 	font-size: 12px;
 	text-transform: uppercase;
 }
@@ -263,13 +263,13 @@ ol {
 
 .owl-carousel .owl-nav button.owl-prev:hover,
 .owl-carousel .owl-nav button.owl-next:hover {
-	border-color: #ff006c;
-	color: #ff006c;
+	border-color: #0268d1;
+	color: #0268d1;
 }
 
 .owl-carousel .owl-nav button.owl-prev:hover:after,
 .owl-carousel .owl-nav button.owl-next:hover:after {
-	border-left: 9px solid #ff006c;
+	border-left: 9px solid #0268d1;
 }
 
 .owl-carousel .owl-nav button.owl-prev {
@@ -284,7 +284,7 @@ ol {
 
 .owl-carousel .owl-nav button.owl-prev:hover:after {
 	border-left: 0;
-	border-right: 9px solid #ff006c;
+	border-right: 9px solid #0268d1;
 }
 
 /*------------------
@@ -307,7 +307,7 @@ ol {
 }
 
 .site-logo h2 span {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .site-logo p {
@@ -329,7 +329,7 @@ ol {
 }
 
 .site-navbar.navbar-dark .navbar-nav .nav-link:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .social-links a {
@@ -340,7 +340,7 @@ ol {
 }
 
 .social-links a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 /*------------------
@@ -465,7 +465,7 @@ ol {
 }
 
 .hero-social-warp .hero-social-links a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .hero-social-warp .hero-social-links a i {
@@ -487,7 +487,7 @@ ol {
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #ff006c;
+	background: #0268d1;
 }
 
 .hero-slider .owl-dots .owl-dot:last-child {
@@ -509,7 +509,7 @@ ol {
 ---------------------*/
 
 .intro-text span {
-	color: #ff006c;
+	color: #0268d1;
 	font-size: 12px;
 	text-transform: uppercase;
 }
@@ -603,13 +603,13 @@ ol {
 
 .blog-slider .owl-nav button.owl-prev:hover,
 .blog-slider .owl-nav button.owl-next:hover {
-	border-color: #ff006c;
-	color: #ff006c;
+	border-color: #0268d1;
+	color: #0268d1;
 }
 
 .blog-slider .owl-nav button.owl-prev:hover:after,
 .blog-slider .owl-nav button.owl-next:hover:after {
-	border-left: 9px solid #ff006c;
+	border-left: 9px solid #0268d1;
 }
 
 .blog-slider .owl-nav button.owl-prev {
@@ -624,7 +624,7 @@ ol {
 
 .blog-slider .owl-nav button.owl-prev:hover:after {
 	border-left: 0;
-	border-right: 9px solid #ff006c;
+	border-right: 9px solid #0268d1;
 }
 
 .blog-item {
@@ -673,7 +673,7 @@ ol {
 }
 
 .blog-item .blog-head h2 a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .blog-item .blog-head.bh-sm h2 {
@@ -683,7 +683,7 @@ ol {
 .blog-item .blog-tags {
 	font-size: 12px;
 	text-transform: uppercase;
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .backtotop {
@@ -741,7 +741,7 @@ ol {
 }
 
 .footer-widget .fw-social a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .footer-widget.resent-post .rp-item {
@@ -756,7 +756,7 @@ ol {
 .footer-widget.resent-post .rp-item span {
 	font-size: 12px;
 	font-family: "Helvetica 45 Light", sans-serif;
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .footer-widget ul {
@@ -777,7 +777,7 @@ ol {
 }
 
 .footer-widget ul li a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .footer-widget.contact-widget ul li {
@@ -795,7 +795,7 @@ ol {
 }
 
 .copyright i {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .copyright a {
@@ -804,7 +804,7 @@ ol {
 }
 
 .copyright a:hover {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 /*----------------
@@ -871,13 +871,13 @@ ol {
 
 .award-slider .owl-nav button.owl-prev:hover,
 .award-slider .owl-nav button.owl-next:hover {
-	border-color: #ff006c;
-	color: #ff006c;
+	border-color: #0268d1;
+	color: #0268d1;
 }
 
 .award-slider .owl-nav button.owl-prev:hover:after,
 .award-slider .owl-nav button.owl-next:hover:after {
-	border-left: 9px solid #ff006c;
+	border-left: 9px solid #0268d1;
 }
 
 .award-slider .owl-nav button.owl-prev:after {
@@ -887,7 +887,7 @@ ol {
 
 .award-slider .owl-nav button.owl-prev:hover:after {
 	border-left: 0;
-	border-right: 9px solid #ff006c;
+	border-right: 9px solid #0268d1;
 }
 
 .award-slider .owl-dots {
@@ -903,7 +903,7 @@ ol {
 }
 
 .award-slider .owl-dots .owl-dot.active {
-	background: #ff006c;
+	background: #0268d1;
 }
 
 .award-slider .owl-dots .owl-dot:last-child {
@@ -948,8 +948,8 @@ ol {
 }
 
 .award-box:hover {
-	background: #ff006c;
-	border: 3px solid #ff006c;
+	background: #0268d1;
+	border: 3px solid #0268d1;
 }
 
 .award-box:hover .award-year {
@@ -990,7 +990,7 @@ ol {
 
 .brand-history-item h2 {
 	font-family: "Helvetica 45 Light", sans-serif;
-	color: #ff006c;
+	color: #0268d1;
 	margin-bottom: 25px;
 }
 
@@ -1059,7 +1059,7 @@ ol {
 	height: 2px;
 	right: 0;
 	bottom: 0;
-	background: #ff006c;
+	background: #0268d1;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 }
@@ -1113,13 +1113,13 @@ ol {
 
 .portfolio-slider .owl-nav button.owl-prev:hover,
 .portfolio-slider .owl-nav button.owl-next:hover {
-	border-color: #ff006c;
-	color: #ff006c;
+	border-color: #0268d1;
+	color: #0268d1;
 }
 
 .portfolio-slider .owl-nav button.owl-prev:hover:after,
 .portfolio-slider .owl-nav button.owl-next:hover:after {
-	border-left: 9px solid #ff006c;
+	border-left: 9px solid #0268d1;
 }
 
 .portfolio-slider .owl-nav button.owl-prev:after {
@@ -1129,7 +1129,7 @@ ol {
 
 .portfolio-slider .owl-nav button.owl-prev:hover:after {
 	border-left: 0;
-	border-right: 9px solid #ff006c;
+	border-right: 9px solid #0268d1;
 }
 
 .portfolio-slider .owl-dots {
@@ -1145,7 +1145,7 @@ ol {
 }
 
 .portfolio-slider .owl-dots .owl-dot.active {
-	background: #ff006c;
+	background: #0268d1;
 }
 
 .portfolio-slider .owl-dots .owl-dot:last-child {
@@ -1171,7 +1171,7 @@ ol {
 }
 
 .site-pagination a.active {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .sb-widget {
@@ -1202,7 +1202,7 @@ ol {
 	font-family: "Helvetica Neue Bold", sans-serif;
 	width: 78px;
 	height: 48px;
-	border-bottom: 3px solid #ff006c;
+	border-bottom: 3px solid #0268d1;
 	background-color: transparent;
 }
 
@@ -1269,7 +1269,7 @@ ol {
 }
 
 .sb-widget .categories-widget ul li a:hover {
-	color: #ff006c;
+	color: #0268d1;
 	font-weight: 700;
 }
 
@@ -1299,7 +1299,7 @@ ol {
 }
 
 .sb-widget .latest-comments .lc-item h4 a {
-	color: #ff006c;
+	color: #0268d1;
 }
 
 /* ------------------
@@ -1330,7 +1330,7 @@ ol {
 	top: 0;
 	font-size: 72px;
 	line-height: 72px;
-	color: #ff006c;
+	color: #0268d1;
 }
 
 .blog-comments .bc-title {
@@ -1373,7 +1373,7 @@ ol {
 
 .blog-comments .comments-list .reply-btn {
 	font-family: "Helvetica 45 Light", sans-serif;
-	color: #ff006c;
+	color: #0268d1;
 	font-size: 16px;
 }
 
